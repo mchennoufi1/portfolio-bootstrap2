@@ -1,0 +1,77 @@
+body {
+    background-image: url("img/tree.jpg");
+}
+
+.container .navbar{
+    background-color: #31abe4;
+}
+
+#content{
+    background-color: #eecf7b;
+    padding-top:20px;
+}
+
+#footer{
+    padding:0px;
+    background-color: rgba(10, 7, 7, 0.781);
+}
+
+.container-fluid{
+    max-width: 100%;
+    
+    padding: 0%;
+
+}
+
+.designText{
+    text-align: center;
+}
+.img-list{
+    max-width: 100px;
+}
+
+.jumbotron{
+    padding: 20px;
+}
+
+.green{
+    background-color: #33b9ee;
+    padding-top: 20px;
+
+}
+
+.pink{
+    background-color: #f1cc65;
+    padding-top: 20px;
+
+}
+
+.white{
+    background-color: #fff;
+    padding-top: 20px;
+
+}
+
+.grey{
+    background-color: #CFD0D3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.jumbotron-text{
+    text-align: center;
+    color:white;
+}
+
+.jumbo {
+    background-image: url("../img/jumbotron.png");
+    background-size: cover;
+    color:black;
+}
+
+.jumbotron {
+    background-image: url("../img/boek.jpg");
+    background-size: cover;
+    margin-bottom: 0rem !important;
+}

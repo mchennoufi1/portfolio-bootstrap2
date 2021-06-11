@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    background-color: black;
+}
+
+.jumbotron-fluid{
+    background-image: url("img/mooi.jpg");
+    background-size: cover;
+    max-width: 100%;
+    padding: 0%;
+}
